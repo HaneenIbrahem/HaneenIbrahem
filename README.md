@@ -3,6 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer
 -----------------
 
+![Moving](70f81163393359.5ab4c75066483.gif)
+
 I am a Fresh Graduated in Computer Engineering at An-Najah National University . I trained at ITG Software backend training. I’m currently learning Cypress, a Quality Assurance automation tool.
 
 * 🌍  I'm based in Palestine
