@@ -3,7 +3,7 @@
 Hi 👋, My name is Haneen
 ==============================================================================================================================
  
-Computer Engineer ![Image](cc.jpg){:height="10%" width="10%"}
+Computer Engineer ![Image](cc.jpg){:height="24px" width="24px"}
 -----------------
 I am a Fresh Graduated in Computer Engineering at An-Najah National University . I trained at ITG Software backend training. I’m currently learning Cypress, a Quality Assurance automation tool.
 
