@@ -5,11 +5,10 @@ Hi 👋, My name is Haneen
  
 Computer Engineer ![Image](cc4.jpg)
 -----------------
-I am a Fresh Graduated in Computer Engineering at An-Najah National University . I trained at ITG Software backend training. I’m currently learning Cypress, a Quality Assurance automation tool.
+I recently graduated with a degree in Computer Engineering from An-Najah National University. During my academic journey, I had the opportunity to undergo backend training at ITG Software.  I am actively learning Cypress, a powerful automation tool for Quality Assurance.
 
 * 🌍  I'm based in Palestine.
 * ✉️  You can contact me at [haneen.m.ibrahem@gmail.com](mailto:haneen.m.ibrahem@gmail.com).
-* 🚀  I'm currently working on [orangeHRM](http://opensource-demo.orangehrmlive.com/web/index.php/auth/login).
 * 🧠  I'm learning Cypress, a Quality Assurance automation tool.
 * ⚡  In a world full of if-else statements, be someone's switch-case. 🔄👍
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500" height = "0.2">
