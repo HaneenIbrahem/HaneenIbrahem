@@ -28,3 +28,14 @@ I recently graduated with a degree in Computer Engineering from An-Najah Nationa
 <p align="left"> <a href="https://www.github.com/HaneenIbrahem" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/haneenibrahem" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500" height = "0.2">
+
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/HaneenIbrahem"><img src="https://github-readme-stats.vercel.app/api?username=HaneenIbrahem&show_icons=true&hide=issues,contribs&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&show_icons=true" alt="HaneenIbrahem's GitHub stats" /></a>
+
+<a href="http://www.github.com/HaneenIbrahem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HaneenIbrahem&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/HaneenIbrahem" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaneenIbrahem&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
