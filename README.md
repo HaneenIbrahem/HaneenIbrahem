@@ -5,7 +5,7 @@ Hi 👋, My name is Haneen
  
 Computer Engineer ![Image](cc4.jpg)
 -----------------
-I recently graduated with a degree in Computer Engineering from An-Najah National University. During my academic journey, I had the opportunity to undergo backend training at ITG Software.  I have successfully mastered Quality Assurance, encompassing both manual and automated testing methodologies. Currently, I am expanding my skillset by diving into front-end development.
+I recently graduated with a degree in Computer Engineering from An-Najah National University. During my academic journey, I had the opportunity to undergo backend training at ITG Software.  I have successfully mastered Quality Assurance, encompassing both manual and automated testing methodologies at GSG. Currently, I am expanding my skillset by diving into front-end development.
 
 * 🌍  I'm based in Palestine. 
 * ✉️  You can contact me at [haneen.m.ibrahem@gmail.com](mailto:haneen.m.ibrahem@gmail.com).
