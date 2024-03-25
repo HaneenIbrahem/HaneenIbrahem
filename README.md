@@ -3,7 +3,7 @@
 Hi 👋, My name is Haneen 
 ==============================================================================================================================
 
- ![](https://komarev.com/ghpvc/?username=HaneenIbrahem&style=flat-plastic&color=dc143c)
+ ![](https://komarev.com/ghpvc/?username=HaneenIbrahem&style=flat-plastic&color=FF3396&abbreviated=true)
  
 Computer Engineer ![Image](cc4.jpg)
 -----------------
