@@ -39,3 +39,5 @@ I recently graduated with a degree in Computer Engineering from An-Najah Nationa
 <a href="http://www.github.com/HaneenIbrahem"><img src="https://github-readme-stats.vercel.app/api?username=HaneenIbrahem&show_icons=true&hide=issues,contribs&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&show_icons=true" alt="HaneenIbrahem's GitHub stats" /></a>
 
 <a href="http://www.github.com/HaneenIbrahem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HaneenIbrahem&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HaneenIbrahem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
